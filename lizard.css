@@ -1,0 +1,171 @@
+@-webkit-keyframes animate-fade-in
+{
+   0% { opacity: 0;  }
+   100% { opacity: 1;  }
+}
+@-moz-keyframes animate-fade-in
+{
+   0% { opacity: 0;  }
+   100% { opacity: 1;  }
+}
+@keyframes animate-fade-in
+{
+   0% { opacity: 0;  }
+   100% { opacity: 1;  }
+}
+@-webkit-keyframes filter-blur-out
+{
+   0% { filter: blur(0);  }
+   100% { filter: blur(20px);  }
+}
+@-moz-keyframes filter-blur-out
+{
+   0% { filter: blur(0);  }
+   100% { filter: blur(20px);  }
+}
+@keyframes filter-blur-out
+{
+   0% { filter: blur(0);  }
+   100% { filter: blur(20px);  }
+}
+@-webkit-keyframes filter-hue-rotate
+{
+   0% { filter: hue-rotate(0deg);  }
+   100% { filter: hue-rotate(360deg);  }
+}
+@-moz-keyframes filter-hue-rotate
+{
+   0% { filter: hue-rotate(0deg);  }
+   100% { filter: hue-rotate(360deg);  }
+}
+@keyframes filter-hue-rotate
+{
+   0% { filter: hue-rotate(0deg);  }
+   100% { filter: hue-rotate(360deg);  }
+}
+@-webkit-keyframes focus-out
+{
+   0% { opacity: 1.0; filter: blur(0);  }
+   100% { opacity: 0.0; filter: blur(20px);  }
+}
+@-moz-keyframes focus-out
+{
+   0% { opacity: 1.0; filter: blur(0);  }
+   100% { opacity: 0.0; filter: blur(20px);  }
+}
+@keyframes focus-out
+{
+   0% { opacity: 1.0; filter: blur(0);  }
+   100% { opacity: 0.0; filter: blur(20px);  }
+}
+@-webkit-keyframes text-letterspacing-blur-out
+{
+   0% { opacity: 1.0; filter: blur(0.01);  }
+   50% { opacity: 0.6;  }
+   100% { letter-spacing: 1em; opacity: 0; filter: blur(12px);  }
+}
+@-moz-keyframes text-letterspacing-blur-out
+{
+   0% { opacity: 1.0; filter: blur(0.01);  }
+   50% { opacity: 0.6;  }
+   100% { letter-spacing: 1em; opacity: 0; filter: blur(12px);  }
+}
+@keyframes text-letterspacing-blur-out
+{
+   0% { opacity: 1.0; filter: blur(0.01);  }
+   50% { opacity: 0.6;  }
+   100% { letter-spacing: 1em; opacity: 0; filter: blur(12px);  }
+}
+h1, .h1
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h2, .h2
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 27px;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h3, .h3
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 24px;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h4, .h4
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 21px;
+   font-style: italic;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h5, .h5
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 19px;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h6, .h6
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+.CustomStyle
+{
+   font-family: "Courier New";
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   color: #2E74B5;
+   background-color: transparent;
+}
+.Text
+{
+   font-weight: bold;
+   font-style: italic;
+   text-decoration: none;
+   color: #449074;
+   background-color: transparent;
+   cursor: pointer;
+   -webkit-text-shadow: 2px 2px 5px rgba(68,144,116,1.00);
+   text-shadow: 2px 2px 5px rgba(68,144,116,1.00);
+}

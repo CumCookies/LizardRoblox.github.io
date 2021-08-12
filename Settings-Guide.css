@@ -1,0 +1,536 @@
+body
+{
+   background-color: #0E1017;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+input:focus, textarea:focus, select:focus
+{
+   outline: none;
+}
+#Layer1
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#MediaPlayer1
+{
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_MediaPlayer1
+{
+   --plyr-color-main: #FFFFFF;
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid transparent;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image3
+{
+   vertical-align: top;
+}
+#Image3
+{
+   border: 0px solid #000000;
+   border-radius: 21px;
+   padding: 0;
+   -webkit-animation: focus-out 700ms linear 0ms 1 reverse both;
+   animation: focus-out 700ms linear 0ms 1 reverse both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Layer11
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text12 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text12 div
+{
+   text-align: left;
+}
+#Layer12
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text13 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text13 div
+{
+   text-align: left;
+}
+#Layer13
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text14 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text14 div
+{
+   text-align: left;
+}
+#Layer7
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Image5
+{
+   vertical-align: top;
+}
+#Image5
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#Layer8
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Image9
+{
+   vertical-align: top;
+}
+#Image9
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+}
+#wb_Text9 div
+{
+   text-align: left;
+}
+#Layer2
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#Layer4
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#Layer5
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Image2
+{
+   vertical-align: top;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#Layer9
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text10 div
+{
+   text-align: left;
+}
+#Layer10
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text11 div
+{
+   text-align: left;
+}
+#Layer14
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text15 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text15 div
+{
+   text-align: left;
+}
+#Layer15
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text16 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text16 div
+{
+   text-align: left;
+}
+#Layer17
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Image6
+{
+   vertical-align: top;
+}
+#Image6
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text18 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+}
+#wb_Text18 div
+{
+   text-align: left;
+}
+#Layer20
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Image4
+{
+   vertical-align: top;
+}
+#Image4
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text21 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+}
+#wb_Text21 div
+{
+   text-align: left;
+}
+#Layer3
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#Layer6
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#Layer16
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Text17 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 800ms linear 0ms 1 reverse both;
+}
+#wb_Text17 div
+{
+   text-align: left;
+}
+#Layer18
+{
+   background-color: #0A0C13;
+   background-image: none;
+}
+#wb_Image7
+{
+   vertical-align: top;
+}
+#Image7
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   animation: filter-hue-rotate 2000ms linear 0ms 1 normal both;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text19 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+   -webkit-animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+   animation: filter-blur-out 400ms linear 0ms 1 reverse both;
+}
+#wb_Text19 div
+{
+   text-align: left;
+}
